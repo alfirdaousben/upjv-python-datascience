@@ -3,3 +3,5 @@ pandas
 matplotlib
 seaborn
 add requirments file
+scikit-learn
+adda scikit-learn to requirments
