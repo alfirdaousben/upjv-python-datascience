@@ -19,7 +19,7 @@ Python & Data Science réalisés sur Google Colab.
 | [TD4](td04_enonce.ipnyb) | Les fonctions et NumPy | :white_check_mark: |
 | [TD5](td05_enonce.ipnyb) | Matplotlib, dictionnaires et Pandas | :white_check_mark: |
 | [TD6](td06_enonce.ipnyb) | Logique, flux de contrôle et boucles | :white_check_mark: |
-| [TD7](td07_enonce.ipnyb)| Nombres aléatoires & Simulations | :white_check_mark: |
+| [TD7](td07_enonce.ipnyb) | Nombres aléatoires & Simulations | :white_check_mark: |
 | [TD8](td08_enonce.ipnyb) | Pandas : agrégation et transformation | :white_check_mark: |
 
 ## Crédits
